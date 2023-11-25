@@ -1,0 +1,15 @@
+/Users/tunzale/Projects/List-Practice/List-Practice/bin/Debug/net6.0/List-Practice
+/Users/tunzale/Projects/List-Practice/List-Practice/bin/Debug/net6.0/List-Practice.deps.json
+/Users/tunzale/Projects/List-Practice/List-Practice/bin/Debug/net6.0/List-Practice.runtimeconfig.json
+/Users/tunzale/Projects/List-Practice/List-Practice/bin/Debug/net6.0/List-Practice.dll
+/Users/tunzale/Projects/List-Practice/List-Practice/bin/Debug/net6.0/List-Practice.pdb
+/Users/tunzale/Projects/List-Practice/List-Practice/obj/Debug/net6.0/List-Practice.csproj.AssemblyReference.cache
+/Users/tunzale/Projects/List-Practice/List-Practice/obj/Debug/net6.0/List-Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tunzale/Projects/List-Practice/List-Practice/obj/Debug/net6.0/List-Practice.AssemblyInfoInputs.cache
+/Users/tunzale/Projects/List-Practice/List-Practice/obj/Debug/net6.0/List-Practice.AssemblyInfo.cs
+/Users/tunzale/Projects/List-Practice/List-Practice/obj/Debug/net6.0/List-Practice.csproj.CoreCompileInputs.cache
+/Users/tunzale/Projects/List-Practice/List-Practice/obj/Debug/net6.0/List-Practice.dll
+/Users/tunzale/Projects/List-Practice/List-Practice/obj/Debug/net6.0/refint/List-Practice.dll
+/Users/tunzale/Projects/List-Practice/List-Practice/obj/Debug/net6.0/List-Practice.pdb
+/Users/tunzale/Projects/List-Practice/List-Practice/obj/Debug/net6.0/List-Practice.genruntimeconfig.cache
+/Users/tunzale/Projects/List-Practice/List-Practice/obj/Debug/net6.0/ref/List-Practice.dll

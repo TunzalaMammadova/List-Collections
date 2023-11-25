@@ -1,0 +1,15 @@
+/Applications/Visual Studio.app/s/Service/bin/Debug/net6.0/Service.deps.json
+/Applications/Visual Studio.app/s/Service/bin/Debug/net6.0/Service.dll
+/Applications/Visual Studio.app/s/Service/bin/Debug/net6.0/Service.pdb
+/Applications/Visual Studio.app/s/Service/bin/Debug/net6.0/Domain.dll
+/Applications/Visual Studio.app/s/Service/bin/Debug/net6.0/Domain.pdb
+/Applications/Visual Studio.app/s/Service/obj/Debug/net6.0/Service.csproj.AssemblyReference.cache
+/Applications/Visual Studio.app/s/Service/obj/Debug/net6.0/Service.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Visual Studio.app/s/Service/obj/Debug/net6.0/Service.AssemblyInfoInputs.cache
+/Applications/Visual Studio.app/s/Service/obj/Debug/net6.0/Service.AssemblyInfo.cs
+/Applications/Visual Studio.app/s/Service/obj/Debug/net6.0/Service.csproj.CoreCompileInputs.cache
+/Applications/Visual Studio.app/s/Service/obj/Debug/net6.0/Service.csproj.CopyComplete
+/Applications/Visual Studio.app/s/Service/obj/Debug/net6.0/Service.dll
+/Applications/Visual Studio.app/s/Service/obj/Debug/net6.0/refint/Service.dll
+/Applications/Visual Studio.app/s/Service/obj/Debug/net6.0/Service.pdb
+/Applications/Visual Studio.app/s/Service/obj/Debug/net6.0/ref/Service.dll
